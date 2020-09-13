@@ -6,6 +6,6 @@ Server and Api gate way - AWS
 
 React dependencies required
 reactstrap
- - for Table style and butoons
+ - for Table style and buttons
 FontAwesone - (yet to be Added)
 - for symbols on buttons.
